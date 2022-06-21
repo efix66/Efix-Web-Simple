@@ -15,7 +15,7 @@ import CodeIcon from "@mui/icons-material/Code";
 import PersonIcon from "@mui/icons-material/Person";
 import { Link } from "gatsby";
 
-const pages = ["Despre Mine", "Proiecte", "Blog"];
+// const pages = ["Despre Mine", "Proiecte", "Blog"];
 const settings = ["Profile", "Account", "Dashboard", "Logout"];
 
 const links = [
